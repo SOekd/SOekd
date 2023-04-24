@@ -22,9 +22,9 @@
 <h3 align="center">📊Stats</h2>
 <div align="center">
   <div style="display:block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOekd&layout=compact&theme=tokyonight" alt="Linguagens mais usadas">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SOekd&layout=compact&theme=tokyonight" alt="Linguagens mais usadas">
   </div>
   <div style="display:block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SOekd&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SOekd&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats">
   </div>
 </div>
